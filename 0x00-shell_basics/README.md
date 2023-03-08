@@ -25,3 +25,5 @@
 10-back: This script that changes the working directory to the previous one.
 
 12-file_type: This script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run the script.
+
+13-symbolic_link: This script creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.

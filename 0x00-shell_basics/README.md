@@ -24,8 +24,12 @@
 
 10-back: This script that changes the working directory to the previous one.
 
+11-lists: This script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
 12-file_type: This script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run the script.
 
 13-symbolic_link: This script creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 
 14-copy_html: This script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parents of the working directory.
+
+
